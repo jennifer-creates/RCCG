@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to RCCG House of Prayer & Fruitfulness London
 
-You can use the [editor on GitHub](https://github.com/jennifer-creates/RCCG/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It is a great privilege and honour to welcome you to The Redeemed Christian Church of God House of Prayer & Fruitfulness. Get ready to know why God has planted your feet in the House of Prayer & Fruitfulness where we **raise the foundations of many generations**. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We look forward to welcoming you to our Sunday Service.
 
 ### Markdown
 
